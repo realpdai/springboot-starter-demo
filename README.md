@@ -83,7 +83,7 @@ public class DemoModule {
 
   install
 
-![](https://www.pdai.tech/_images/spring/springboot-starter-demo-1.png)
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly93d3cucGRhaS50ZWNoL19pbWFnZXMvc3ByaW5nL3NwcmluZ2Jvb3Qtc3RhcnRlci1kZW1vLTEucG5n?x-oss-process=image/format,png)
 
 ## 封装Starter
 
