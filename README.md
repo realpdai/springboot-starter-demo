@@ -83,7 +83,7 @@ public class DemoModule {
 
   install
 
-[外链图片转存失败,源站可能有防盗链(img-1/_dLes/spring/springbootaOcstarter-Kemo.38)(/_images/spring/springboot-starter-demo-1.png)]]
+![](https://www.pdai.tech/_images/spring/springboot-starter-demo-1.png)
 
 ## 封装Starter
 
